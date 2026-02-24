@@ -15,3 +15,9 @@ if (side1 + side2 > side3) and (side1 + side3 > side2) and (side2 + side3 > side
         print("The triangle is an isosceles triangle.")
     else:
         print("The triangle is a scalene triangle.") 
+
+# output
+# Enter the length of the first side: 10
+# Enter the length of the second side: 10
+# Enter the length of the third side: 10
+# The triangle is an equilateral triangle.

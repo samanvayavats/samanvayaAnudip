@@ -1,4 +1,4 @@
-# 10-reverseANumber
+# 23-reverseNumberUsingWhileLoop
 num = int(input('enter the number '))
 reversed_num = 0 
 
@@ -8,7 +8,6 @@ while num != 0:
         num //= 10 
 
 print('reversed number ' , reversed_num)
-
 
 # output
 # enter the number 1234

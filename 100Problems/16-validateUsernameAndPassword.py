@@ -14,3 +14,8 @@ if username == "admin" and password == "password123":
     print("Login successful!")
 else:
     print("Invalid username or password. Please try again.")
+
+# output
+# Enter your username: admin
+# Enter your password: password123
+# Login successful!
