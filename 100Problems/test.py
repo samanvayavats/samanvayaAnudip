@@ -4,11 +4,11 @@ import os
 folder_path = r"C:\Users\SAMANVAYA VATS\OneDrive\Desktop\anudip\practice-mkdir\anudip\100Problems"
 
 files = [
-'24-countDigitsInNumber.py',
-'25-sumOfEvenNumbersUpToN.py',
-'26-checkArmstrongNumber.py',
-'27-fibonacciUsingWhileLoop.py',
-'28-multiplicationTableUsingWhile.py',
+'29-gcdUsingWhileLoop.py',
+'30-sumUntil0Entered.py',
+'31-primeNumbersBetween1AndN.py',
+'32-factorialUsingForLoop.py',
+'33-starPatternUsingForLoop.py',
 ]
 
 for file_name in files:
