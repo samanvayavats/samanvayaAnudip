@@ -4,12 +4,11 @@ import os
 folder_path = r"C:\Users\SAMANVAYA VATS\OneDrive\Desktop\anudip\practice-mkdir\anudip\100Problems"
 
 files = [
-'7-fahrenheitToCelsiusConversion.py',
-'8-evenOrOddWithoutModulus.py',
-'9-sumOfDigits.py',
-'10-reverseANumber.py',
-'11-checkLeapYear.py',
-'12-assignGradesBasedOnMarks.py',
+'13-vowelOrConsonantCheck.py',
+'14-digitOrAlphabetCheck.py',
+'15-divisibleBy3And5.py',
+'16-validateUsernameAndPassword.py',
+'17-determineTriangleType.py',
 ]
 
 for file_name in files:
